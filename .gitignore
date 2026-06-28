@@ -1,0 +1,12 @@
+# Ignora a pasta do ambiente virtual (muito pesada)
+.venv/
+env/
+__pycache__/
+
+# Ignora os vídeos da esteira de teste (O GitHub bloqueia arquivos grandes)
+*.mp4
+*.avi
+*.mov
+
+# Ignora arquivos ocultos do sistema
+.DS_Store
