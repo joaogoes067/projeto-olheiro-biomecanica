@@ -34,6 +34,3 @@ O modelo demonstra alta robustez com o processamento de mais de 100 mil quadros 
    `pip install -r requirements.txt`
 3. Execute o script principal:
    `python deploy_unificado.py`
-
----
-*Projeto desenvolvido como parte da pesquisa em Mestrado em Matemática.*
